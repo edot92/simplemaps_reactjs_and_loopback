@@ -1,0 +1,17 @@
+{
+  "name": "Maps",
+  "base": "Model",
+  "properties": {},
+  "methods": {
+    "getdataexample": {
+      "isStatic": true,
+      "returns": {
+        "arg": "response",
+        "type": "string"
+      },
+      "http": {
+        "verb": "get"
+      }
+    }
+  }
+}
