@@ -4,3 +4,5 @@ run npm install && npm start
 Web server listening at: http://0.0.0.0:3000
 <br>
 Browse your REST API at http://0.0.0.0:3000/explorer
+<br>
+example :http://www.simplemaps.karyateknologi.com
